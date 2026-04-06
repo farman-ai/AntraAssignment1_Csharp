@@ -1,0 +1,151 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MainMenu/1.0.0": {
+        "dependencies": {
+          "App01_HackerName": "1.0.0",
+          "App02_UnderstandingTypes": "1.0.0",
+          "App03_CenturyConverter": "1.0.0",
+          "App04_FizzBuzz": "1.0.0",
+          "App05_PrintPyramid": "1.0.0",
+          "App06_GuessingGame": "1.0.0",
+          "App07_BirthDate": "1.0.0",
+          "App08_TimeOfDay": "1.0.0",
+          "App09_CountTo24": "1.0.0"
+        },
+        "runtime": {
+          "MainMenu.dll": {}
+        }
+      },
+      "App01_HackerName/1.0.0": {
+        "runtime": {
+          "App01_HackerName.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App02_UnderstandingTypes/1.0.0": {
+        "runtime": {
+          "App02_UnderstandingTypes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App03_CenturyConverter/1.0.0": {
+        "runtime": {
+          "App03_CenturyConverter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App04_FizzBuzz/1.0.0": {
+        "runtime": {
+          "App04_FizzBuzz.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App05_PrintPyramid/1.0.0": {
+        "runtime": {
+          "App05_PrintPyramid.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App06_GuessingGame/1.0.0": {
+        "runtime": {
+          "App06_GuessingGame.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App07_BirthDate/1.0.0": {
+        "runtime": {
+          "App07_BirthDate.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App08_TimeOfDay/1.0.0": {
+        "runtime": {
+          "App08_TimeOfDay.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "App09_CountTo24/1.0.0": {
+        "runtime": {
+          "App09_CountTo24.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App01_HackerName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App02_UnderstandingTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App03_CenturyConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App04_FizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App05_PrintPyramid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App06_GuessingGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App07_BirthDate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App08_TimeOfDay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App09_CountTo24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

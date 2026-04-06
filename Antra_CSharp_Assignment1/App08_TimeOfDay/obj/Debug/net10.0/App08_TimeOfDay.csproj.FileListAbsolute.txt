@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/bin/Debug/net10.0/App08_TimeOfDay.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/bin/Debug/net10.0/App08_TimeOfDay.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/bin/Debug/net10.0/App08_TimeOfDay.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/refint/App08_TimeOfDay.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/App08_TimeOfDay.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App08_TimeOfDay/obj/Debug/net10.0/ref/App08_TimeOfDay.dll

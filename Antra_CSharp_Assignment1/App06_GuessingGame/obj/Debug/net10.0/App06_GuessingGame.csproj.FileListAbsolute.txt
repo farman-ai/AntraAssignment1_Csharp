@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/bin/Debug/net10.0/App06_GuessingGame.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/bin/Debug/net10.0/App06_GuessingGame.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/bin/Debug/net10.0/App06_GuessingGame.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/refint/App06_GuessingGame.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/App06_GuessingGame.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App06_GuessingGame/obj/Debug/net10.0/ref/App06_GuessingGame.dll

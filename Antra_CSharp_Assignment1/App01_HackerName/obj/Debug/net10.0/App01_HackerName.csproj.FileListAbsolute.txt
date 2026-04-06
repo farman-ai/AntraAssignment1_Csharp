@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/bin/Debug/net10.0/App01_HackerName.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/bin/Debug/net10.0/App01_HackerName.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/bin/Debug/net10.0/App01_HackerName.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/refint/App01_HackerName.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/App01_HackerName.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App01_HackerName/obj/Debug/net10.0/ref/App01_HackerName.dll

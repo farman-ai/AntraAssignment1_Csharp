@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj",
+      "projectUniqueName": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj",
       "projectName": "App07_BirthDate",
-      "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj",
+      "projectPath": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App07_BirthDate/obj/",
+      "outputPath": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

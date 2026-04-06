@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj",
+      "projectUniqueName": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj",
       "projectName": "App02_UnderstandingTypes",
-      "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj",
+      "projectPath": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/",
+      "outputPath": "/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"

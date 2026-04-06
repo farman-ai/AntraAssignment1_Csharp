@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/bin/Debug/net10.0/App05_PrintPyramid.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/bin/Debug/net10.0/App05_PrintPyramid.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/bin/Debug/net10.0/App05_PrintPyramid.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/refint/App05_PrintPyramid.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/App05_PrintPyramid.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App05_PrintPyramid/obj/Debug/net10.0/ref/App05_PrintPyramid.dll

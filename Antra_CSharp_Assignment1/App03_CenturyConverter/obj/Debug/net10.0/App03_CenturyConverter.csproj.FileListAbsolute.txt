@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/bin/Debug/net10.0/App03_CenturyConverter.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/bin/Debug/net10.0/App03_CenturyConverter.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/bin/Debug/net10.0/App03_CenturyConverter.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/refint/App03_CenturyConverter.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/App03_CenturyConverter.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App03_CenturyConverter/obj/Debug/net10.0/ref/App03_CenturyConverter.dll

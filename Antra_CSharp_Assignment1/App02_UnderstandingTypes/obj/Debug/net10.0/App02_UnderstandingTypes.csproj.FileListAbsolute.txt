@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/bin/Debug/net10.0/App02_UnderstandingTypes.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/bin/Debug/net10.0/App02_UnderstandingTypes.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/bin/Debug/net10.0/App02_UnderstandingTypes.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/refint/App02_UnderstandingTypes.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/App02_UnderstandingTypes.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App02_UnderstandingTypes/obj/Debug/net10.0/ref/App02_UnderstandingTypes.dll

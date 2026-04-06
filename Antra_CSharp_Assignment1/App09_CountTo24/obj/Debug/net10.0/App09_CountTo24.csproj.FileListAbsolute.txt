@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/bin/Debug/net10.0/App09_CountTo24.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/bin/Debug/net10.0/App09_CountTo24.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/bin/Debug/net10.0/App09_CountTo24.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/refint/App09_CountTo24.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/App09_CountTo24.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App09_CountTo24/obj/Debug/net10.0/ref/App09_CountTo24.dll

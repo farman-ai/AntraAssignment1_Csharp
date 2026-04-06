@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "App08_TimeOfDay/1.0.0": {
+        "runtime": {
+          "App08_TimeOfDay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App08_TimeOfDay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

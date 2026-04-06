@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/bin/Debug/net10.0/App07_BirthDate.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/bin/Debug/net10.0/App07_BirthDate.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/bin/Debug/net10.0/App07_BirthDate.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/refint/App07_BirthDate.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/App07_BirthDate.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App07_BirthDate/obj/Debug/net10.0/ref/App07_BirthDate.dll

@@ -1,0 +1,12 @@
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.AssemblyInfoInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.AssemblyInfo.cs
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.sourcelink.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/bin/Debug/net10.0/App04_FizzBuzz.deps.json
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/bin/Debug/net10.0/App04_FizzBuzz.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/bin/Debug/net10.0/App04_FizzBuzz.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/refint/App04_FizzBuzz.dll
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/App04_FizzBuzz.pdb
+/Users/mac/AntraAssignment1_Csharp/Antra_CSharp_Assignment1/App04_FizzBuzz/obj/Debug/net10.0/ref/App04_FizzBuzz.dll
