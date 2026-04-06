@@ -18,7 +18,7 @@ The solution `assignment1antra.sln` consists of the following projects:
 | **App08_TimeOfDay** | `Program.cs` | Greets user based on system time (if statements). |
 | **App09_CountTo24** | `Program.cs` | Nested loops with variable increments. |
 
-## 🚀 How to Execute
+## How to Execute
 
 1. **Open the Solution**: Open `assignment1antra.sln` in JetBrains Rider or Visual Studio.
 2. **Set Startup Project**:
@@ -27,5 +27,5 @@ The solution `assignment1antra.sln` consists of the following projects:
 3. **Run**: Press `F5` or the Play button.
 4. **Navigate**: Use the numeric menu in the console to jump between different exercises.
 
-## 📚 Theory Documentation
+## Theory Documentation
 Full theory answers, including data type selection and .NET internals, are located in the generated PDF/Documentation section.
