@@ -18,7 +18,7 @@ The solution `assignment1antra.sln` consists of the following projects:
 | **App08_TimeOfDay** | `Program.cs` | Greets user based on system time (if statements). |
 | **App09_CountTo24** | `Program.cs` | Nested loops with variable increments. |
 
-## 🚀 How to Execute
+## How to Execute
 
 1. Open the solution file `assignment1antra.sln` in JetBrains Rider, Visual Studio, or VS Code.
 2. Set the startup project to `MainMenu` (Right-click → Set as Startup Project in Rider/VS).
@@ -60,5 +60,5 @@ dotnet run --project MainMenu/MainMenu.csproj
 
 Then use the numeric menu to choose an app.
 
-## 📚 Theory Documentation
+## Theory Documentation
 Full theory answers, including data type selection and .NET internals, are located in the generated PDF/Documentation section.
