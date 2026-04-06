@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Antra_CSharp_Assignment1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f2c49ba250e92bdaf5512f6b8da201cf5a4cee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Antra_CSharp_Assignment1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Antra_CSharp_Assignment1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

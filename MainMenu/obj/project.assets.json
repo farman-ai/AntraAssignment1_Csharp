@@ -1,11 +1,158 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "App01_HackerName/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App01_HackerName.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App01_HackerName.dll": {}
+        }
+      },
+      "App02_UnderstandingTypes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App02_UnderstandingTypes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App02_UnderstandingTypes.dll": {}
+        }
+      },
+      "App03_CenturyConverter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App03_CenturyConverter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App03_CenturyConverter.dll": {}
+        }
+      },
+      "App04_FizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App04_FizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App04_FizzBuzz.dll": {}
+        }
+      },
+      "App05_PrintPyramid/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App05_PrintPyramid.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App05_PrintPyramid.dll": {}
+        }
+      },
+      "App06_GuessingGame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App06_GuessingGame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App06_GuessingGame.dll": {}
+        }
+      },
+      "App07_BirthDate/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App07_BirthDate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App07_BirthDate.dll": {}
+        }
+      },
+      "App08_TimeOfDay/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App08_TimeOfDay.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App08_TimeOfDay.dll": {}
+        }
+      },
+      "App09_CountTo24/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/App09_CountTo24.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App09_CountTo24.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "App01_HackerName/1.0.0": {
+      "type": "project",
+      "path": "../App01_HackerName/App01_HackerName.csproj",
+      "msbuildProject": "../App01_HackerName/App01_HackerName.csproj"
+    },
+    "App02_UnderstandingTypes/1.0.0": {
+      "type": "project",
+      "path": "../App02_UnderstandingTypes/App02_UnderstandingTypes.csproj",
+      "msbuildProject": "../App02_UnderstandingTypes/App02_UnderstandingTypes.csproj"
+    },
+    "App03_CenturyConverter/1.0.0": {
+      "type": "project",
+      "path": "../App03_CenturyConverter/App03_CenturyConverter.csproj",
+      "msbuildProject": "../App03_CenturyConverter/App03_CenturyConverter.csproj"
+    },
+    "App04_FizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../App04_FizzBuzz/App04_FizzBuzz.csproj",
+      "msbuildProject": "../App04_FizzBuzz/App04_FizzBuzz.csproj"
+    },
+    "App05_PrintPyramid/1.0.0": {
+      "type": "project",
+      "path": "../App05_PrintPyramid/App05_PrintPyramid.csproj",
+      "msbuildProject": "../App05_PrintPyramid/App05_PrintPyramid.csproj"
+    },
+    "App06_GuessingGame/1.0.0": {
+      "type": "project",
+      "path": "../App06_GuessingGame/App06_GuessingGame.csproj",
+      "msbuildProject": "../App06_GuessingGame/App06_GuessingGame.csproj"
+    },
+    "App07_BirthDate/1.0.0": {
+      "type": "project",
+      "path": "../App07_BirthDate/App07_BirthDate.csproj",
+      "msbuildProject": "../App07_BirthDate/App07_BirthDate.csproj"
+    },
+    "App08_TimeOfDay/1.0.0": {
+      "type": "project",
+      "path": "../App08_TimeOfDay/App08_TimeOfDay.csproj",
+      "msbuildProject": "../App08_TimeOfDay/App08_TimeOfDay.csproj"
+    },
+    "App09_CountTo24/1.0.0": {
+      "type": "project",
+      "path": "../App09_CountTo24/App09_CountTo24.csproj",
+      "msbuildProject": "../App09_CountTo24/App09_CountTo24.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "App01_HackerName >= 1.0.0",
+      "App02_UnderstandingTypes >= 1.0.0",
+      "App03_CenturyConverter >= 1.0.0",
+      "App04_FizzBuzz >= 1.0.0",
+      "App05_PrintPyramid >= 1.0.0",
+      "App06_GuessingGame >= 1.0.0",
+      "App07_BirthDate >= 1.0.0",
+      "App08_TimeOfDay >= 1.0.0",
+      "App09_CountTo24 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mac/.nuget/packages/": {}
@@ -13,11 +160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1.csproj",
-      "projectName": "Antra_CSharp_Assignment1",
-      "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1.csproj",
+      "projectUniqueName": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/MainMenu/MainMenu.csproj",
+      "projectName": "MainMenu",
+      "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/MainMenu/MainMenu.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/",
+      "outputPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/MainMenu/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
@@ -31,7 +178,35 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App01_HackerName/App01_HackerName.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App01_HackerName/App01_HackerName.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App02_UnderstandingTypes/App02_UnderstandingTypes.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App03_CenturyConverter/App03_CenturyConverter.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App03_CenturyConverter/App03_CenturyConverter.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App04_FizzBuzz/App04_FizzBuzz.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App04_FizzBuzz/App04_FizzBuzz.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App05_PrintPyramid/App05_PrintPyramid.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App05_PrintPyramid/App05_PrintPyramid.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App06_GuessingGame/App06_GuessingGame.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App06_GuessingGame/App06_GuessingGame.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App07_BirthDate/App07_BirthDate.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App08_TimeOfDay/App08_TimeOfDay.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App08_TimeOfDay/App08_TimeOfDay.csproj"
+            },
+            "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App09_CountTo24/App09_CountTo24.csproj": {
+              "projectPath": "/Users/mac/RiderProjects/Antra_CSharp_Assignment1/App09_CountTo24/App09_CountTo24.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
