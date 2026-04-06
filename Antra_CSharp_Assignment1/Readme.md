@@ -18,14 +18,47 @@ The solution `assignment1antra.sln` consists of the following projects:
 | **App08_TimeOfDay** | `Program.cs` | Greets user based on system time (if statements). |
 | **App09_CountTo24** | `Program.cs` | Nested loops with variable increments. |
 
-## How to Execute
+## 🚀 How to Execute
 
-1. **Open the Solution**: Open `assignment1antra.sln` in JetBrains Rider or Visual Studio.
-2. **Set Startup Project**:
-    - Right-click on the `MainMenu` project.
-    - Select **Set as Startup Project**.
-3. **Run**: Press `F5` or the Play button.
-4. **Navigate**: Use the numeric menu in the console to jump between different exercises.
+1. Open the solution file `assignment1antra.sln` in JetBrains Rider, Visual Studio, or VS Code.
+2. Set the startup project to `MainMenu` (Right-click → Set as Startup Project in Rider/VS).
+3. Run with the debugger (F5) or start without debugging (Ctrl+F5 / Run button).
+4. Use the numeric console menu to pick an exercise. Press `0` to exit.
 
-## Theory Documentation
+## Running in VS Code (recommended)
+
+1. Open VS Code and open the folder `Antra_CSharp_Assignment1` (File → Open Folder).
+2. Install the C# extension (ms-dotnettools.csharp) if prompted.
+3. Build via the Command Palette (Cmd+Shift+P) → `Tasks: Run Task` → `dotnet: build`, or build from the integrated terminal.
+4. Run the Main Menu from the integrated terminal:
+
+```bash
+cd Antra_CSharp_Assignment1
+dotnet run --project MainMenu/MainMenu.csproj
+```
+
+To auto-exit immediately after the menu is printed (useful for automation or CI):
+
+```bash
+echo "0" | dotnet run --project MainMenu/MainMenu.csproj --no-build
+```
+
+## Running from the command line (macOS / Linux / WSL / Windows)
+
+1. Open a terminal and `cd` into `Antra_CSharp_Assignment1`.
+2. (Optional) Build explicitly:
+
+```bash
+dotnet build MainMenu/MainMenu.csproj
+```
+
+3. Run the main menu:
+
+```bash
+dotnet run --project MainMenu/MainMenu.csproj
+```
+
+Then use the numeric menu to choose an app.
+
+## 📚 Theory Documentation
 Full theory answers, including data type selection and .NET internals, are located in the generated PDF/Documentation section.
