@@ -1,0 +1,14 @@
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/bin/Debug/net10.0/Antra_CSharp_Assignment1
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/bin/Debug/net10.0/Antra_CSharp_Assignment1.deps.json
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/bin/Debug/net10.0/Antra_CSharp_Assignment1.runtimeconfig.json
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/bin/Debug/net10.0/Antra_CSharp_Assignment1.dll
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/bin/Debug/net10.0/Antra_CSharp_Assignment1.pdb
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.AssemblyInfo.cs
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.dll
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/refint/Antra_CSharp_Assignment1.dll
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.pdb
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/Antra_CSharp_Assignment1.genruntimeconfig.cache
+/Users/mac/RiderProjects/Antra_CSharp_Assignment1/Antra_CSharp_Assignment1/obj/Debug/net10.0/ref/Antra_CSharp_Assignment1.dll
