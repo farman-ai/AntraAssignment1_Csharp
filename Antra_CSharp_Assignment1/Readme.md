@@ -2,7 +2,7 @@
 
 This solution contains multiple console applications addressing the core fundamentals of C# and .NET.
 
-## 🛠 Project Structure
+## Project Structure
 The solution `assignment1antra.sln` consists of the following projects:
 
 | Project Name | File | Description |
