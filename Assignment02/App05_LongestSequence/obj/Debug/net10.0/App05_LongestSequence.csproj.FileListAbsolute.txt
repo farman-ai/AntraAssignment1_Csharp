@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/bin/Debug/net10.0/App05_LongestSequence.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/bin/Debug/net10.0/App05_LongestSequence.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/bin/Debug/net10.0/App05_LongestSequence.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/refint/App05_LongestSequence.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/App05_LongestSequence.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App05_LongestSequence/obj/Debug/net10.0/ref/App05_LongestSequence.dll

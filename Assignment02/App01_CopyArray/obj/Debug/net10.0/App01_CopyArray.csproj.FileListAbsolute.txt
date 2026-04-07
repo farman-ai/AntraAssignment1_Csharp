@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/bin/Debug/net10.0/App01_CopyArray.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/bin/Debug/net10.0/App01_CopyArray.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/bin/Debug/net10.0/App01_CopyArray.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/refint/App01_CopyArray.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/App01_CopyArray.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App01_CopyArray/obj/Debug/net10.0/ref/App01_CopyArray.dll

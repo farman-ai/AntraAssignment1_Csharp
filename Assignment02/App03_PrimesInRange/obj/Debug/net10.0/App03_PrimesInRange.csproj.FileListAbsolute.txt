@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/bin/Debug/net10.0/App03_PrimesInRange.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/bin/Debug/net10.0/App03_PrimesInRange.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/bin/Debug/net10.0/App03_PrimesInRange.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/refint/App03_PrimesInRange.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/App03_PrimesInRange.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App03_PrimesInRange/obj/Debug/net10.0/ref/App03_PrimesInRange.dll

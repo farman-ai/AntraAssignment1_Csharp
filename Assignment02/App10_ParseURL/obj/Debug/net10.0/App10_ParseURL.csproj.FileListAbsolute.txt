@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/bin/Debug/net10.0/App10_ParseURL.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/bin/Debug/net10.0/App10_ParseURL.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/bin/Debug/net10.0/App10_ParseURL.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/refint/App10_ParseURL.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/App10_ParseURL.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App10_ParseURL/obj/Debug/net10.0/ref/App10_ParseURL.dll

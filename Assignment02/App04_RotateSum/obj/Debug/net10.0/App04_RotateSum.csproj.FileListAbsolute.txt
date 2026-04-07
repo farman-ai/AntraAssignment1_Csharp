@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/bin/Debug/net10.0/App04_RotateSum.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/bin/Debug/net10.0/App04_RotateSum.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/bin/Debug/net10.0/App04_RotateSum.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/refint/App04_RotateSum.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/App04_RotateSum.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App04_RotateSum/obj/Debug/net10.0/ref/App04_RotateSum.dll

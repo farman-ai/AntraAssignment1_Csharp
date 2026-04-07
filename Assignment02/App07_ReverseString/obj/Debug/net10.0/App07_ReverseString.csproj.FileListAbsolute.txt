@@ -1,0 +1,11 @@
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/bin/Debug/net10.0/App07_ReverseString.deps.json
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/bin/Debug/net10.0/App07_ReverseString.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/bin/Debug/net10.0/App07_ReverseString.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.AssemblyInfo.cs
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/refint/App07_ReverseString.dll
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/App07_ReverseString.pdb
+/Users/mac/RiderProjects/Solution1/Antra_Assignment2_FinalCode/App07_ReverseString/obj/Debug/net10.0/ref/App07_ReverseString.dll

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\App01_CopyArray\App01_CopyArray.csproj" />
+    <ProjectReference Include="..\App02_GroceryList\App02_GroceryList.csproj" />
+    <ProjectReference Include="..\App03_PrimesInRange\App03_PrimesInRange.csproj" />
+    <ProjectReference Include="..\App04_RotateSum\App04_RotateSum.csproj" />
+    <ProjectReference Include="..\App05_LongestSequence\App05_LongestSequence.csproj" />
+    <ProjectReference Include="..\App06_MostFrequent\App06_MostFrequent.csproj" />
+    <ProjectReference Include="..\App07_ReverseString\App07_ReverseString.csproj" />
+    <ProjectReference Include="..\App08_ReverseWords\App08_ReverseWords.csproj" />
+    <ProjectReference Include="..\App09_Palindromes\App09_Palindromes.csproj" />
+    <ProjectReference Include="..\App10_ParseURL\App10_ParseURL.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

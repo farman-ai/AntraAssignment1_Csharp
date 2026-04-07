@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="App01_CopyArray/App01_CopyArray.csproj" />
+  <Project Path="App02_GroceryList/App02_GroceryList.csproj" />
+  <Project Path="App03_PrimesInRange/App03_PrimesInRange.csproj" />
+  <Project Path="App04_RotateSum/App04_RotateSum.csproj" />
+  <Project Path="App05_LongestSequence/App05_LongestSequence.csproj" />
+  <Project Path="App06_MostFrequent/App06_MostFrequent.csproj" />
+  <Project Path="App07_ReverseString/App07_ReverseString.csproj" />
+  <Project Path="App08_ReverseWords/App08_ReverseWords.csproj" />
+  <Project Path="App09_Palindromes/App09_Palindromes.csproj" />
+  <Project Path="App10_ParseURL/App10_ParseURL.csproj" />
+  <Project Path="MainMenu/MainMenu.csproj" />
+</Solution>
