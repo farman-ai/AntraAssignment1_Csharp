@@ -45,7 +45,15 @@ namespace MainMenu
                 }
 
                 Console.WriteLine("\nPress any key to return to Main Menu...");
-                Console.ReadKey();
+                if (!Console.IsInputRedirected)
+                {
+                    Console.ReadKey();
+                }
+                else
+                {
+                    // When input is redirected (piped/non-interactive), skip the pause
+                    Console.WriteLine("(input redirected — continuing)");
+                }
             }
         }
     }
