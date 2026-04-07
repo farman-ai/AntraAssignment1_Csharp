@@ -1,64 +1,90 @@
-# Antra C# Assignment 01
+# Antra C# Assignments — Main README
 
-This solution contains multiple console applications addressing the core fundamentals of C# and .NET.
+This repository contains two sets of C# assignments completed for the Antra course. Use this top-level README to quickly find, build, and run the projects on macOS (zsh) using the .NET SDK (dotnet CLI).
 
-## Project Structure
-The solution `assignment1antra.sln` consists of the following projects:
+## Repository layout
 
-| Project Name | File | Description |
-| :--- | :--- | :--- |
-| **MainMenu** | `Program.cs` | The central controller to run all assignments. |
-| **App01_HackerName** | `Program.cs` | Hacker name generator using user input. |
-| **App02_UnderstandingTypes** | `Program.cs` | Outputs memory sizes and ranges of C# types. |
-| **App03_CenturyConverter** | `Program.cs` | Converts centuries to nanoseconds (handles overflow). |
-| **App04_FizzBuzz** | `Program.cs` | Simulated FizzBuzz game (1-100). |
-| **App05_PrintPyramid** | `Program.cs` | Prints a star pyramid using nested loops. |
-| **App06_GuessingGame** | `Program.cs` | Number guessing game with logic feedback. |
-| **App07_BirthDate** | `Program.cs` | Calculates days old and 10k-day anniversaries. |
-| **App08_TimeOfDay** | `Program.cs` | Greets user based on system time (if statements). |
-| **App09_CountTo24** | `Program.cs` | Nested loops with variable increments. |
+- `Assignment01/` - First assignment containing multiple small console apps and a `MainMenu` project. Solution file: `Assignment01/Antra_CSharp_Assignment1.sln`
+- `Assignment02/` - Second assignment with additional console apps and a `MainMenu` project. Solution file: `Assignment02/AntraAssignment2.slnx`
 
-## How to Execute
+Each `AppXX_*/` folder is a standalone console app with its own `.csproj` and `Program.cs`. There is also a `MainMenu/` project in each assignment that can be used to access or launch the apps in that assignment.
 
-1. Open the solution file `assignment1antra.sln` in JetBrains Rider, Visual Studio, or VS Code.
-2. Set the startup project to `MainMenu` (Right-click → Set as Startup Project in Rider/VS).
-3. Run with the debugger (F5) or start without debugging (Ctrl+F5 / Run button).
-4. Use the numeric console menu to pick an exercise. Press `0` to exit.
+## Requirements
 
-## Running in VS Code (recommended)
-
-1. Open VS Code and open the folder `Antra_CSharp_Assignment1` (File → Open Folder).
-2. Install the C# extension (ms-dotnettools.csharp) if prompted.
-3. Build via the Command Palette (Cmd+Shift+P) → `Tasks: Run Task` → `dotnet: build`, or build from the integrated terminal.
-4. Run the Main Menu from the integrated terminal:
+- .NET SDK (recommended .NET 6 or .NET 7). Verify with:
 
 ```bash
-cd Antra_CSharp_Assignment1
-dotnet run --project MainMenu/MainMenu.csproj
+dotnet --version
 ```
 
-To auto-exit immediately after the menu is printed (useful for automation or CI):
+- A terminal (macOS default shell: zsh) or an IDE that supports C# (.NET) such as Visual Studio for Mac, Rider, or Visual Studio Code with the C# extension.
+
+## Quick start — build and run
+
+From the repository root (`/Users/mac/AntraAssignment_Csharp`), you can build/run individual projects using the dotnet CLI.
+
+Run the MainMenu for Assignment01:
 
 ```bash
-echo "0" | dotnet run --project MainMenu/MainMenu.csproj --no-build
+dotnet run --project Assignment01/MainMenu/MainMenu.csproj
 ```
 
-## Running from the command line (macOS / Linux / WSL / Windows)
-
-1. Open a terminal and `cd` into `Antra_CSharp_Assignment1`.
-2. (Optional) Build explicitly:
+Run the MainMenu for Assignment02:
 
 ```bash
-dotnet build MainMenu/MainMenu.csproj
+dotnet run --project Assignment02/MainMenu/MainMenu.csproj
 ```
 
-3. Run the main menu:
+Run a specific app directly (example: App01 in Assignment01):
 
 ```bash
-dotnet run --project MainMenu/MainMenu.csproj
+dotnet run --project Assignment01/App01_HackerName/App01_HackerName.csproj
 ```
 
-Then use the numeric menu to choose an app.
+Build an entire solution (all projects under a solution file):
 
-## Theory Documentation
-Full theory answers, including data type selection and .NET internals, are located in the generated PDF/Documentation section.
+```bash
+dotnet build Assignment01/Antra_CSharp_Assignment1.sln
+dotnet build Assignment02/AntraAssignment2.slnx
+```
+
+List projects in a solution:
+
+```bash
+dotnet sln Assignment01/Antra_CSharp_Assignment1.sln list
+dotnet sln Assignment02/AntraAssignment2.slnx list
+```
+
+Find every project file in the repo (handy when exploring):
+
+```bash
+find . -name "*.csproj" -print
+```
+
+## Notes & tips
+
+- If `dotnet` is not found, install the .NET SDK from Microsoft (choose a supported SDK like 6.x or 7.x) and re-open your terminal.
+- If you prefer an IDE, open the solution files:
+  - `Assignment01/Antra_CSharp_Assignment1.sln`
+  - `Assignment02/AntraAssignment2.slnx`
+
+- When running with `dotnet run --project`, the command will build the project automatically if necessary.
+
+## Troubleshooting
+
+- Build errors: read the error messages, ensure the .NET SDK version matches the target framework in the `.csproj` files.
+- Missing packages: run `dotnet restore` in the solution folder to restore NuGet packages.
+
+```bash
+dotnet restore Assignment01/Antra_CSharp_Assignment1.sln
+dotnet restore Assignment02/AntraAssignment2.slnx
+```
+
+## Contributing / Notes
+
+- This repository is organized as reference solutions for small console assignments. If you add or rename projects, update the README with the new paths.
+- For any questions or improvements to these instructions, open an issue or update this README with more examples.
+
+---
+
+Happy coding!
